@@ -1,6 +1,9 @@
 # ShutDown Timer
 A GUI tool that can be used to set a timer to shut down the system.
 
+![image](https://user-images.githubusercontent.com/37642026/216204784-f1ef5a95-93d5-4947-91a8-9300e5a752c4.png)
+
+
 ## Requirements
 - Python 3
 - Tkinter
